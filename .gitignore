@@ -1,0 +1,11 @@
+# Build output
+cmake-build-debug/
+build/
+
+# CLion / IDE
+.idea/
+*.iml
+
+# OS files
+Thumbs.db
+.DS_Store
